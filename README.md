@@ -1,4 +1,4 @@
-# Agentopolis Chat: A2A-Enabled Assistant UI
+# Agentopolis Kiosk: A2A-Enabled Chat UI
 
 This project is an advanced chat application from Agentopolis, built upon the [assistant-ui](https://github.com/Yonom/assistant-ui) chat application. It has been enhanced to support the Agent-to-Agent (A2A) protocol, allowing users to register and interact with remote A2A-compliant AI agents.
 
